@@ -3,7 +3,7 @@
 <title>Jenkins Sample Project</title>
 </head>
 <body>
-	<h1>Welcome! we are learning Dev-Ops!!</h1>
+	<h1>Welcome! We are learning Dev-Ops!!</h1>
         <h2> Update No 3 on Feb18</h2>
 	<p>
 		It is now
